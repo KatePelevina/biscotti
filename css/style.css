@@ -12,12 +12,12 @@
 }
 
 .first-page {
-    background: url("/img/first-page-bg.jpg");
+    background: url("img/first-page-bg.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
 .working {
-    background: url("/img/work.jpg");
+    background: url("img/work.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
