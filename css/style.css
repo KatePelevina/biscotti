@@ -28,7 +28,12 @@ s .watch{z-index:10;position:absolute;bottom:30px;left:50%;-webkit-transform:tra
     position: absolute;
     bottom: 30px;
     left: 50%;
-    transform: translate3d(-50%, 0, 0);
+    transform: translate3d(-50%, 0, 100px);
     color: #fff;
     font-family: 'Indie Flower';
+}
+.contacts {
+    background-image: url('img/contact-bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
 }
