@@ -33,7 +33,7 @@ s .watch{z-index:10;position:absolute;bottom:30px;left:50%;-webkit-transform:tra
     font-family: 'Indie Flower';
 }
 .contacts {
-    background-image: url('img/contact-bg.jpg');
+    background-image: url('../img/contact-bg.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
