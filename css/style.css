@@ -32,3 +32,7 @@ s .watch{z-index:10;position:absolute;bottom:30px;left:50%;-webkit-transform:tra
     color: #fff;
 }
 
+.name {
+    font-family: 'Indie Flower';
+}
+
